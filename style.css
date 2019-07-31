@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    width:250px;
+    height: 25px;
+    margin: 5px;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
